@@ -232,9 +232,9 @@ export default class App extends Component {
           </View>
         </View>
       </View>
-    );
+    ); 
   } 
-}
+} 
 
 const styles = StyleSheet.create({
   
