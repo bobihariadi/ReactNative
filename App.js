@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Platform, Button, StyleSheet, Text, View, Image, TextInput, ScrollView, TouchableOpacity} from 'react-native';
 
-// functional Component
+// functional Component- less state component
 // const GopayFeature = (props) => {
 //   return (
 //     <View style={{flex: 1, alignItems: 'center'}}>
@@ -11,7 +11,7 @@ import {Platform, Button, StyleSheet, Text, View, Image, TextInput, ScrollView, 
 //   )
 // }
 
-// class Component
+// class Component - full state component
 class GopayFeature extends Component{
   render(){
     return(
